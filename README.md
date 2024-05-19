@@ -1,18 +1,18 @@
-# gatech-hack-2024
-repo to store code, design, plan for 2024 hackathon
+# ResearchRadar
 
-## App name: ResearchRadar
+## Inspiration
+
+## What it does
+
+## How we built it
 
 
-### Relevant APIs
+## Challenges we ran into
 
-**Google Scholar:** https://serpapi.com/google-scholar-api
-- Author API: articles, citations, cited by and co-authors 
-- Cite API
-- Profiles API
-- Organic results
 
-**Google Patents:** https://serpapi.com/google-patents-api
-- Patent/scholar details
-- Organic (main) results
-  - Summary: comes with organic results and includes leading inventors, assignees and CPCs summarized
+## Accomplishments that we're proud of
+
+## What we learned
+
+## What's next for ResearchRadar
+* Scaling 
